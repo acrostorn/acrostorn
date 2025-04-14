@@ -17,8 +17,10 @@ Here are some tools and technologies I work with:
 
 ### 🌌 Featured Project
 
-[OrbitPlay](https://github.com/acrostorn/OrbitPlay)  
-A Swift Playground that lets users explore satellite constellations and design their own spacecrafts in AR.  
+**[OrbitPlay](https://github.com/acrostorn/OrbitPlay)**
+![Preview](https://github.com/acrostorn/OrbitPlay?tab=readme-ov-file)
+OrbitPlay is designed to provide an interactive and immersive experience in satellite development and space mission operations. Users can assemble a satellite, design its orbit, and operate a mission using AR, making space engineering more accessible and engaging.
+Demo Video: https://www.youtube.com/watch?v=GaSuNM9kLKg&t=11s
 🏆 Accepted for the **WWDC Swift Student Challenge 2025**
 
 ---
