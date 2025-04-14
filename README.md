@@ -1,6 +1,6 @@
 ### Hi, I'm acrostorn 👋
 
-Bachelor of Science in Aeronautical Engineering
+Bachelor of Science in Aeronautical Engineering 🇯🇵 Nagoya
 
 ---
 
@@ -8,16 +8,16 @@ Bachelor of Science in Aeronautical Engineering
 
 Here are some tools and technologies I work with:
 
-- **Languages:** Swift, Python, JavaScript, HTML/CSS
-- **Frontend:** SwiftUI, React, Next.js, Flutter
+- **Languages:** TypeScript, Python, Swift, JavaScript
+- **Frontend:** React, Next.js, SwiftUI, Flutter
 - **Backend & Cloud:** Firebase, AWS, GCP
-- **Others:** SceneKit, ARKit, etc.
+- **Others:** ShadcnUI, TailwindCSS etc.
 
 ---
 
 ### 🌌 Featured Project
 
-**[OrbitPlay](https://github.com/acrostorn/OrbitPlay)**
+[**OrbitPlay**](https://github.com/acrostorn/OrbitPlay)
 
 ![Logo](https://github.com/acrostorn/OrbitPlay/blob/main/Image/icon.png?raw=true)
 
