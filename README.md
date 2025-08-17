@@ -8,8 +8,8 @@ Bachelor of Science in Aeronautical Engineering 🇯🇵 Nagoya
 
 Here are some tools and technologies I work with:
 
-- **Languages:** TypeScript, Python, Swift, JavaScript
-- **Frontend:** React, Next.js, SwiftUI, Flutter
+- **Languages:** Swift, TypeScript, Python, JavaScript
+- **Frontend:** SwiftUI, React, Next.js, Flutter
 - **Backend & Cloud:** Firebase, AWS, GCP
 - **Others:** ShadcnUI, TailwindCSS etc.
 
