@@ -1,5 +1,5 @@
 Bachelor of Science in Aeronautical Engineering 🇯🇵 Nagoya  
-zj konnnanyattemasu
+zj konnnanyattemasu zj
 
 ## Featured Project
 
