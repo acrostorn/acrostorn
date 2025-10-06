@@ -12,7 +12,7 @@ zj konnnanyattemasu
 ## [OrbitPlay](https://github.com/acrostorn/OrbitPlay)  
 🏆 Accepted for the **WWDC Swift Student Challenge 2025**  
 
-[OrbitPlay](https://github.com/acrostorn/OrbitPlay/blob/main/Image/icon.png?raw=true)  
+![OrbitPlay](https://github.com/acrostorn/OrbitPlay/blob/main/Image/icon.png?raw=true)  
 Demo Video: https://www.youtube.com/watch?v=GaSuNM9kLKg&t=11s  
 
 ---
