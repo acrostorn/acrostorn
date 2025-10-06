@@ -1,25 +1,19 @@
-### Hi, I'm acrostorn 👋
-
 Bachelor of Science in Aeronautical Engineering 🇯🇵 Nagoya
-
----
-
-### 🛠️ Tech Stack
-
-Here are some tools and technologies I work with:
-
-- **Languages:** Swift, TypeScript, Python, JavaScript
-- **Frontend:** SwiftUI, React, Next.js, Flutter
-- **Backend & Cloud:** Firebase, AWS, GCP
-- **Others:** ShadcnUI, TailwindCSS etc.
 
 ---
 
 ### 🌌 Featured Project
 
+[**J-POP**](https://github.com/acrostorn/J-POP)
+![J-POP](https://github.com/acrostorn/J-POP/raw/main/images/Thumbnail.jpg)
+
+
+🏆 **NASA Space Apps Challenge Global Nominee**
+
+
 [**OrbitPlay**](https://github.com/acrostorn/OrbitPlay)
 
-![Logo](https://github.com/acrostorn/OrbitPlay/blob/main/Image/icon.png?raw=true)
+![OrbitPlay](https://github.com/acrostorn/OrbitPlay/blob/main/Image/icon.png?raw=true)
 
 OrbitPlay is designed to provide an interactive and immersive experience in satellite development and space mission operations. Users can assemble a satellite, design its orbit, and operate a mission using AR, making space engineering more accessible and engaging.
 
