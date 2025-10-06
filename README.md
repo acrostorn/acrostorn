@@ -1,7 +1,7 @@
 Bachelor of Science in Aeronautical Engineering 🇯🇵 Nagoya  
 zj konnnanyattemasu zj
 
-## Featured Project
+# Featured Project
 
 ## [J-POP](https://github.com/acrostorn/J-POP)  
 
