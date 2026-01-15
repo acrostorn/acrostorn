@@ -16,7 +16,7 @@ Demo Video: https://www.youtube.com/watch?v=GaSuNM9kLKg&t=11s
 
 ---
 
-### 📫 Get in Touch
+### Get in Touch
 
 - X: [@acrostorn](https://x.com/acrostorn?s=21)  
 
