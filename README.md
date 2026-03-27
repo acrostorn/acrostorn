@@ -2,6 +2,12 @@ zj konnnanyattemasu zj
 
 # Featured Project
 
+## [AirCraft](https://github.com/acrostorn/AirCraft)  
+🏆 Accepted for the **WWDC Swift Student Challenge 2026**  
+
+![AirCraft](https://github.com/acrostorn/AirCraft/raw/main/images/welcome.jpg?raw=true)  
+Demo Video: https://www.youtube.com/watch?v=8kHkH2OmEe8  
+
 ## [J-POP](https://github.com/acrostorn/J-POP)  
 
 🏆 **NASA Space Apps Challenge Global Nominee**  
@@ -18,5 +24,6 @@ Demo Video: https://www.youtube.com/watch?v=GaSuNM9kLKg&t=11s
 
 ### Get in Touch
 
-- X: [@acrostorn](https://x.com/acrostorn?s=21)  
+-  [LinkedIn](https://www.linkedin.com/in/riju-ishiwatari-903852367)
+-  [X](https://x.com/acrostorn?s=21)  
 
